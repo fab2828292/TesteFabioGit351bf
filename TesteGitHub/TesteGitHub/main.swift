@@ -9,6 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
-print("Olá")
-print("Olá")
-print("Olá")
+print("Bom dia")
+print("Bom dia")
+print("Bom dia")
