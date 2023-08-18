@@ -17,3 +17,11 @@ print("Bom dia")
 print("Bom dia")
 print("Bom dia")
 print("Bom dia")
+
+print("oioioioioi")
+print("Bom dia")
+
+print("oioioioioi")
+print("Bom dia")
+
+print("oioioioioi")
